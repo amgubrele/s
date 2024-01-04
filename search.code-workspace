@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../taskManager"
+		},
+		{
+			"path": "../task_manager"
+		}
+	],
+	"settings": {}
+}
